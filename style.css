@@ -8,17 +8,11 @@ body {
   font-weight: 300;
 }
 
-p {
-  font-family: "Open Sans", sans-serif;
-  color: #888888;
-  font-size: 15px;
-  line-height: 1.3em;
-  font-weight: 300;
+td p {
   text-align: left;
 }
 
 h1 {
-  font-family: "Open Sans", sans-serif;
   color: #11849F;
   font-size: 22px;
   line-height: 0.8em;
