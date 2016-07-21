@@ -13,7 +13,7 @@ td p {
 }
 
 h1 {
-  color: #11849F;
+  color: #00838F;
   font-size: 22px;
   line-height: 0.8em;
   font-weight: 700;
@@ -40,7 +40,7 @@ a {
 }
 
 a:hover {
-  color: #11849F;
+  color: #00838F;
 }
 
 ul {
@@ -89,7 +89,7 @@ td {
   left: 0;
   top: 0;
   bottom: 0;
-  background-color: #11849F;
+  background-color: #00838F;
   text-align: center;
 }
 
